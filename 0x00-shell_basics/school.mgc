@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "SCHOOL"
+grep -i [A-Z]
