@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/t?[a-z][A-Z][0-9]/s?[a-z][A-Z][0-9]
+mkdir -p welcome/t?/s?*
