@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/[a-z]/[a-z]
+mkdir -p welcome/[a-z][A-Z]/[a-z][A-Z]
